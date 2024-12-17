@@ -1,4 +1,4 @@
-# Life Care Plan Project
+# TheLifeCarePlanner
 
 A Django-based application for creating and managing life care plans.
 
